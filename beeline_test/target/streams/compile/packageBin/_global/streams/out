@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/greg/beeline_test/target/scala-2.11/beeline_test_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	beeline$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/greg/beeline_test/target/scala-2.11/classes/beeline$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	beeline$order.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/greg/beeline_test/target/scala-2.11/classes/beeline$order.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	beeline$product.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/greg/beeline_test/target/scala-2.11/classes/beeline$product.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	beeline$customer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/greg/beeline_test/target/scala-2.11/classes/beeline$customer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	beeline$product$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/greg/beeline_test/target/scala-2.11/classes/beeline$product$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	beeline$customer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/greg/beeline_test/target/scala-2.11/classes/beeline$customer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	beeline.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/greg/beeline_test/target/scala-2.11/classes/beeline.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	beeline$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/greg/beeline_test/target/scala-2.11/classes/beeline$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	beeline$order$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/greg/beeline_test/target/scala-2.11/classes/beeline$order$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

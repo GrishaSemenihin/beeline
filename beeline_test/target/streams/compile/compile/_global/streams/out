@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/greg/beeline_test/src/main/scala/beeline.scala:1:8: object ap is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.ap[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
